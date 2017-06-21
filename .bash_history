@@ -863,3 +863,58 @@ git pull origin master
 git push
 git push origin master
 git status
+ls
+vim 44
+git status
+git add .
+git status
+git commit -m "test" -all
+git commit -m "test" -a
+ls
+vim  README.md 
+vim tedtfdete
+vim ttt
+git status
+git add -AS
+git add -A
+git commit -m "hdfhhgfhdh"  -a
+ls
+git status
+branch
+git branch
+git branch mic1
+git checkout mic1
+git branch
+git checkout master
+git checkout -b  mic2
+git branch
+git checkout master
+git brach
+git branch
+git checkout mic1
+git branch
+vim 888
+ls
+git checkout master
+ls
+git checkout mic1
+ls
+git branch
+vim 0909
+git checkout master
+ls
+git checkout mic2
+ls
+git branch
+git branch mic3
+git checkout mic3
+ls
+git branch
+vim 999999
+ls
+git checkout mic2
+ls
+git branch
+git status
+ls
+exit
