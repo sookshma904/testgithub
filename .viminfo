@@ -41,18 +41,21 @@ $
 	ddddÊþº¾nn-n"
 
 # File marks:
-'0  1  17  ~/44
-'1  1  0  ~/build.xml
-'2  1  0  ~/.ssh/authorized_keys
-'3  1  12  /tmp/mic/sss
-'4  1  22  /tmp/mic/nav
-'5  52  25  /etc/ssh/sshd_config
-'6  1  0  /etc/ssh
-'7  1  0  ~/aadhi/IBM/src/main/java/Jar/App.java
-'8  2  2  /tmp/aadya/pom.xml
-'9  25  0  /tmp/aadya/pom.xml
+'0  1  24  ~/ttt
+'1  1  19  ~/tedtfdete
+'2  1  0  ~/README.md
+'3  1  17  ~/44
+'4  1  0  ~/build.xml
+'5  1  0  ~/.ssh/authorized_keys
+'6  1  12  /tmp/mic/sss
+'7  1  22  /tmp/mic/nav
+'8  52  25  /etc/ssh/sshd_config
+'9  1  0  /etc/ssh
 
 # Jumplist (newest first):
+-'  1  24  ~/ttt
+-'  1  19  ~/tedtfdete
+-'  1  0  ~/README.md
 -'  1  17  ~/44
 -'  1  0  ~/build.xml
 -'  1  0  ~/.ssh/authorized_keys
@@ -148,11 +151,23 @@ $
 -'  1  0  /usr/lib/jvm
 -'  1  0  /usr/lib/jvm
 -'  1  0  /usr/lib/jvm
--'  1  0  ~/my-app/src/java
--'  1  0  /usr/lib/jvm
--'  1  0  /usr/lib/jvm
 
 # History of marks within files (newest to oldest):
+
+> ~/ttt
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
+
+> ~/tedtfdete
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/README.md
+	"	1	0
 
 > ~/44
 	"	1	17
